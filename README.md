@@ -16,7 +16,10 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/iamnotstatic" />
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnotstatic&show_icons=true) 
 </p>
+ 
 <!--
 <p align='center'>
 <a href="https://stackoverflow.com/users/10612336/iamnotstatic"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
