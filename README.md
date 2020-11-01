@@ -17,7 +17,10 @@
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/iamnotstatic" />
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnotstatic&show_icons=true) 
+  <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=iamnotstatic&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotstatic&hide=css,java,html&theme=tokyonight">
+</p>
 </p>
  
 <!--
