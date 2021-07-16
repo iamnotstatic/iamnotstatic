@@ -15,7 +15,7 @@
 <a href="mailto:abdulfataisuleiman67@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<!--   <img src="https://gpvc.arturio.dev/iamnotstatic" /> -->
+  <img src="https://gpvc.arturio.dev/iamnotstatic" />
   
   <!--
   <p align = "center">
