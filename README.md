@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>Full-Stack Blockchain Engineer || Ethereum || Bitcoin || Defi || Dapps | Solidity || Building Stuff. Available for hire </p>
+<p align='center'>Full-Stack Blockchain Engineer || Ethereum || Bitcoin || Defi || Dapps | Solidity || Building Stuff. </p>
 
 <p align='center'>
 <!-- <a href="https://wa.me/2348161846658?text=Hello Abdulfatai" target="_blank">
